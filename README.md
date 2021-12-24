@@ -11,7 +11,7 @@ Furthermore, the algorithms are created for a general n-disc problem and the cor
 ### How to run the code
 
 To run the code, the following command needs to be run on the console/command line with the necessary arguments:<br>
-python -m <m-value> --heuristic <Heuristic name> <n-value> Tower_of_Hanoi.py
+python -m < m-value > --heuristic < Heuristic name > < n-value > Tower_of_Hanoi.py
 
 --help can be used to access values of arguments
 <n-value> : "Number of discs"
