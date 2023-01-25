@@ -17,3 +17,6 @@ python -m < m-value > --heuristic < Heuristic name > < n-value > Tower_of_Hanoi.
 <n-value> : "Number of discs"
 "--heuristic": <m-value> :'disksNotOnRightmost','distancefromlastpeg','Blind','PDB', default="disksNotOnRightmost"
 "-m" : <m-value> : m<=n, default=0 , This argument is only needed for PDB
+
+The core concept of off-the-shelf solver used in the algorithm is demonstarted through my linkedIn article: 
+https://www.linkedin.com/pulse/exploring-off-the-shelf-solvers-classic-search-problems-preeti-sethi/
